@@ -5,3 +5,6 @@
 training/tennis-ball-detection-6/
 
 yolov8x.pt
+
+#Ignore models
+models/
