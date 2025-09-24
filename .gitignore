@@ -1,0 +1,7 @@
+# Ignore enviroment variable file
+.env
+
+# Ignore the training data folder
+training/tennis-ball-detection-6/
+
+yolov8x.pt
